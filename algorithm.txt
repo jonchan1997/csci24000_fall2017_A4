@@ -1,0 +1,56 @@
+Goal:
+	1. Load Students (From File) 
+	2. Print Stack 
+	3. Exit Program 
+
+	Enter Your Selection: 1 
+
+ 	Students Loaded From File! 
+
+ 	1. Load Students (From File) 
+	2. Print Stack 
+	3. Exit Program 
+	
+	Enter Your Selection: 2 
+
+ID: 12  Name: Test Testerson Address: 1740 Parkview Drive Sugar Land,TX 77478 GPA: 3.127 
+ID: 567567 Name: Test Testerson  Address: 3479 Austin Avenue Brunswick,GA 31520 GPA: 3.256 
+ID: 685544 Name: Test Testerson Address: 1225 Gnatty Creek Road Westbury,NY 11590 GPA: 2.985 
+ID: 709095 Name: Test Testerson Address: 1125 Joyce Street  Mobile,AL 36693 GPA: 3.995 
+ID: 576568 Name: Test Testerson Address: 2656 Creekside Lane Goleta,CA 93117 GPA: 1.598 
+ID: 564563 Name: Test Testerson Address: 4489 Tully Street Apt B Detroit,MI 48219 GPA: 2.127 
+ID: 124789 Name: Test Testerson Address: 845 Dola Mine Road  Wendell,NC 27591 GPA: 3.958 
+ID: 333555 Name: Test Testerson Address: 2707 Waterview Lane Apt 302 Las Vegas,NM 87701 GPA: 2.546 
+ID: 456789 Name: Test Testerson Address: 3668 Thunder Road Palo Alto,CA 94306 GPA: 2.978 
+ID: 123456 Name: Test Testerson Address: 1843 Glenview Drive Apt. 2 Corpus Christi,TX 78401 GPA: 3.215 
+ 	1. Load Students (From File) 
+	2. Print Stack 
+	3. Exit Program 
+	Enter Your Selection: 3 
+ 	
+	Goodbye! 
+
+When I began my project I believed that I need four classes:
+1. Driver.java
+2.Stack.jave->provided in lecture
+3.Student.java
+4.Address.java
+
+Driver.java:
+it will be the helm of the program as It is pretty much pertaining to everything the user will interect with as well as combining the other files.
+
+-displays menu
+
+Stack.java:
+It is what we will use to store the information from the text file and how we will be able to organize it so we can call upon it later.
+- called upon for operations 1 & 2
+Student.java:
+It will be what i use to ring in the text file as I see it as a class for gathering the student data.
+-used in operation one to fill the stacks
+
+Address.java: 
+not entirely sure what this is meant to be for I am assuming it is meant to check the second address however I feel as though that is only a line + an if statement in the Driver class if your implementing the other classes properly.
+-used in printing the stacks
+
+ 
+ 
